@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConvertUml.iml" filepath="$PROJECT_DIR$/ConvertUml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Account.iml" filepath="$PROJECT_DIR$/Account.iml" />
     </modules>
   </component>
 </project>
